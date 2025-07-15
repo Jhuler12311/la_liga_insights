@@ -2,6 +2,13 @@
 
 Proyecto desarrollado en Python para analizar partidos de La Liga Española 2024-2025.
 
+## Instalación de dependencias
+
+Ejecuta este comando para instalar todas las librerías necesarias:
+## ```bash
+## pip install -r requirements.txt
+
+
 ## Estructura
 
 la_liga_insights/
